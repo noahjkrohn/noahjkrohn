@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Noah Krohn (@noahjkrohn), I'm a DevOps engineer with 21 years experience in the industry
+- 📫 Feel free to email me: me@noahkrohn.dev
